@@ -1,0 +1,9 @@
+{
+    "idf.pythonInstallPath": "C:\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "files.associations": {
+        "*html": "html",
+        "savethis.C": "cpp",
+        "inttypes.h": "c"
+    },
+    "idf.flashType": "JTAG"
+}
